@@ -17,6 +17,6 @@ My name is **Lucas** and I'm from Porto, Portugal.
 ## 
 
 
-📫 Get in touch with me: lucasesilva.398@gmail.com
+📫 Get in touch with me: lucas-dev@outlook.pt
 
 
