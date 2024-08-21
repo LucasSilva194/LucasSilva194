@@ -3,7 +3,7 @@
 My name is **Lucas** and I'm from Porto, Portugal.
 
 ## 👨🏽‍💻 About Me
-* Currently studying **Information Technologies and Systems for the Web** at ESMAD - School of Media Arts and Design
+* Degree in **Web Information Systems and Technologies** at ESMAD - School of Media Arts and Design
 * Aiming to be a **Full-Stack Developer**
 * Currently working as a **Junior Graphic Designer** at Ciências do Investimento LDA
 ## 🛠 Skills
